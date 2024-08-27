@@ -7,6 +7,7 @@ This project is a RESTful API that determines which loan modalities a person has
 - Java
 - Spring Boot
 - Maven
+- JUnit 5
 
 ## Endpoints
 
